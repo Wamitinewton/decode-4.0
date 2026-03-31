@@ -1,0 +1,5 @@
+{
+  "name": "AgriMarket Connect",
+  "description": "A platform for farmers to find market tenders and view crop yield analytics, with direct WhatsApp integration for applications.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
